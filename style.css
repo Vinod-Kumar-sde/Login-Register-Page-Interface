@@ -154,35 +154,6 @@ header {
     transition: 4s;
     transition: height 2s ease;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 .wrapper .icon-close {
     position: absolute;
@@ -293,6 +264,7 @@ header {
 .remember-forget label input {
     accent-color: #162938;
     margin-right: 3px;
+    cursor: none;
 
 }
 
@@ -318,6 +290,7 @@ header {
     font-size: 1em;
     color: white;
     font-weight: 600;
+
 }
 
 .login-register {
